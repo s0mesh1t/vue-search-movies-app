@@ -1,10 +1,10 @@
 # vue-movie-search-app
+Simple vue search movies app with axios
 
 ## Screenshot
 
 ![screenshot](screenshot.png "Screenshot")
 
-Simple vue search movies app with axios
 
 ## Project setup
 
