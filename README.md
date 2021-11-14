@@ -1,5 +1,7 @@
 # vue-movie-search-app
 
+Simple vue search movies app with axios
+
 ## Project setup
 ```
 yarn install
