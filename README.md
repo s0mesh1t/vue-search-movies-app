@@ -1,4 +1,4 @@
-# vue-movie-search-app
+# vue-movie-search-app - [Demo](https://nulloneguy.github.io/vue-search-movies-app/)
 Simple vue search movies app with axios
 
 ## Screenshot
